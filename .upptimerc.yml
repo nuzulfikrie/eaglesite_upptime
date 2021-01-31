@@ -1,15 +1,15 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: nuzulfikrie # Your GitHub username
+repo: eaglesite_upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: App
+    url: https://app.eaglenavigator.com
+  - name: App2
+    url: https://app2.eaglenavigator.com
+  - name: Testing
+    url: https://testing.eaglenavigator.com
   - name: Broken Site
     url: https://thissitedoesnotexist.com
   - name: Test for HEAD
@@ -20,9 +20,9 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  #cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+   baseUrl: /eaglesite_upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
